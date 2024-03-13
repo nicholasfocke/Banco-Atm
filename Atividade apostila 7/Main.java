@@ -1,3 +1,4 @@
+package br.com.caelum.contas.main;
 public class Main {
     public static void main(String[]args){
         Conta c02 = new Conta(2323, "Nicholas");
